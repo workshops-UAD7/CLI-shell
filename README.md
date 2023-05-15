@@ -1,3 +1,5 @@
+**(Workshop URL: https://tinyurl.com/UAD7CLI)**
+
 # Introduction to the Command Line Interface (CLI) - Unix Shell
 Unix shell and shell programming tutorials
 
