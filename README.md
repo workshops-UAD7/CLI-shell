@@ -12,8 +12,8 @@ As users we can interact with the Unix shell using a [terminal](https://en.wikip
 ## Sections
 
 * [Introduction to Github Codespaces](./docs/Codespaces.md)
-* [Introduction to the UNIX Shell]
-* [Files and Directories]
+* [Introduction to the UNIX Shell and Unix filesystem](./docs/UnixShell.md)
+* [Working with Files and Directories]
 * [Pipes and Filters]
 * [Loops]
 * [Shell Scripts]
@@ -25,7 +25,6 @@ As users we can interact with the Unix shell using a [terminal](https://en.wikip
 * [The Command Line Interface Shell](https://github.com/clizarraga-UAD7/Workshops/wiki/The-Command-Line-Interface-Shell).
 * [The Unix Shell](https://swcarpentry.github.io/shell-novice/). Software Carpentries. 
 * [Introduction to Command Line for Genomics](https://datacarpentry.org/shell-genomics/). Data Carpentry.
-* [The Unix Shell](https://librarycarpentry.org/lc-shell/). Library Carpentry.
 * [Explain Shell](https://explainshell.com/)
 
 
